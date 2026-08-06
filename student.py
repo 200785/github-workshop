@@ -1,7 +1,4 @@
-print("Welcome to python Programing");
-a=29
+a=10
 b=20
-x=30
-y=23
-print("result=a+b", a+b);
-
+result=a+b
+print("It is a bug Branch")
